@@ -1,9 +1,6 @@
-# Website-Under-Construction-HTML
-Website Under Construction HTML Theme
+# Website-Under-Construction-HTMLTemplate
 
 <img src="https://github.com/shafiei/Website-Under-Construction-HTML/blob/main/Screenshot%20Website%20Under%20Construction.png?raw=true" alt="screenshot">
-
-# Website Under Construction HTML Template
 
 This project provides a simple HTML template for an "Under Construction" page. It's designed to be easily customizable and visually appealing, making it perfect for any website undergoing maintenance.
 
